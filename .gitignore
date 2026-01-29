@@ -70,16 +70,10 @@ crashlytics-build.properties
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
-# Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
-# ==============================
-# (User Defined)
-# ==============================
 
-
-/[Aa]ssets/_IgnoredModels/
-/[Aa]ssets/_IgnoredModels.meta
+# 忽略模之屋模型文件夹
+/[Aa]ssets/__IgnoredModels/
+/[Aa]ssets/__IgnoredModels.meta
 
 
 /[Aa]ssets/StreamingAssets/
