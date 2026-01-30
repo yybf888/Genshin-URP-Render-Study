@@ -4,6 +4,7 @@
 
 ## ⚠️ 重要说明
 出于版权保护，**本项目不包含角色模型文件**。下载本项目后，你需要手动导入模型。
+demo:![demo](https://github.com/user-attachments/assets/623a16a2-9468-431a-b4db-ccd5791e3282)
 
 ## 🔧 如何使用
 1. 下载本项目。
